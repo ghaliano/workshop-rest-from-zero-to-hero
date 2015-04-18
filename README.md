@@ -11,13 +11,13 @@ Get the code by cloning this repository:
 
     $ git clone git@github.com:willdurand/workshop-rest-from-zero-to-hero.git
 
-Install the project's dependencies:
-
-    $ composer install
-
 Configure the project by renaming the `.env.dist` file to `.env`:
 
     $ cp .env.dist .env
+
+Install the project's dependencies:
+
+    $ composer install
 
 Run the application:
 
